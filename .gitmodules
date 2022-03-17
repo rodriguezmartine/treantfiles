@@ -1,0 +1,4 @@
+[submodule "treant-io/public"]
+	path = treant-io/public
+	url = https://github.com/treant-io/treant-io.github.io.git
+	branch = main

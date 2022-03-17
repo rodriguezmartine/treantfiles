@@ -1,0 +1,17 @@
+#  menu items
+[[main]]
+  name = "Docs"
+  weight = 2
+  #url = "docs/"
+
+[[main]]
+  name = "Tutorials"
+  weight = 2
+  #url = "tutorials/"
+
+
+
+ [[main]]
+   name = "Blog"
+   weight = 4
+   #url = "blog/"

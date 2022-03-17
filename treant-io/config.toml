@@ -1,0 +1,17 @@
+baseURL = 'https://treant-io.github.io/'
+languageCode = 'en-us'
+title = 'Treant Site'
+theme = "compose"
+
+
+[params]
+  minimal = false
+  excerpts = false
+  description = "my blog"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
