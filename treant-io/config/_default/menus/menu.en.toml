@@ -1,7 +1,7 @@
 #  menu items
 [[main]]
   name = "Docs"
-  weight = 2
+  weight = 1
   #url = "docs/"
 
 [[main]]
@@ -10,8 +10,12 @@
   #url = "tutorials/"
 
 
+[[main]]
+	name = "Blog"
+	weight = 3
+	#url = "blog/"
 
- [[main]]
-   name = "Blog"
-   weight = 4
-   #url = "blog/"
+[[main]]
+	name = "Login"
+	weight = 4
+	url = "https://aquiles-test.treant.io"

@@ -1,4 +1,4 @@
-baseURL = 'https://treant-io.github.io/'
+baseURL = 'https://www.treant.io/'
 languageCode = 'en-us'
 title = 'Treant Site'
 theme = "compose"
@@ -8,6 +8,7 @@ theme = "compose"
   minimal = false
   excerpts = false
   description = "my blog"
+
 
 [menu]
   [[menu.main]]
