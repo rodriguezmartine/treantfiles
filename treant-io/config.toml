@@ -3,16 +3,11 @@ languageCode = 'en-us'
 title = 'Treant Site'
 theme = "compose"
 
+[outputs]
+   home = ["HTML", "RSS","JSON"]
 
 [params]
-  minimal = false
-  excerpts = false
-  description = "my blog"
+	mainSections = ["docs", "blog"]
 
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
+
