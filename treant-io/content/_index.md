@@ -25,15 +25,13 @@ We are working as hard and fast as possible creating a great product, and we are
 {{< tip >}}
 <form action=""  id="sampleForm">
 	<div >
-	  <input type="email" name="email" class="search_field" placeholder="Your Email" required>
+	  <input type="email" name="email" class="search_field" placeholder="Your Email" style="width: 100%" required>
 	</div>
-	<br>
 	<div >
-	  <input type="text" name="subject" class="search_field"  placeholder="Subject" required>
+	  <input type="hidden" name="subject" class="search_field"  placeholder="Subject" value="Subscribe">
 	</div>
-	<br>
     <div >
-	  <input type="textarea" name="html" class="search_field"  placeholder="Message" required>
+	  <input type="hidden" name="html" class="search_field"  placeholder="Message"  value="Subscribe user">
 	</div>
 	<br>
     <button type="submit"  class="button search_field" id="btnSubmit">Subscribe!</button>
