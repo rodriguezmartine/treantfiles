@@ -31,7 +31,7 @@ export default class FetchService {
                 method: "POST",
                 headers: headers,
                 body: JSON.stringify(body)
-            });
+            })
             const content = await rawResponse.json();
             return content;
         }

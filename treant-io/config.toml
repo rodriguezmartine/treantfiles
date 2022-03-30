@@ -1,4 +1,4 @@
-baseURL = 'https://www.treant.io/'
+baseURL = 'https://treant.io/'
 languageCode = 'en-us'
 title = 'Treant Site'
 theme = "compose"
@@ -8,6 +8,7 @@ theme = "compose"
 
 [params]
 	mainSections = ["docs", "blog"]
+	
 
 
 

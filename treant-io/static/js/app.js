@@ -6,6 +6,9 @@ const fetchService = new FetchService();
 /*-- /Objects --*/
 /*--Functions--*/
 async function submitForm(e, form) {
+
+    const modal = document.getElementById("myModal");
+    modal.style.display = "block";
     // 1. Prevent reloading page
     e.preventDefault();
     // 2. Submit the form
@@ -19,7 +22,7 @@ async function submitForm(e, form) {
     const headers = buildHeaders();
     // 2.4 Request & Response
     const response = await fetchService.performPostHttpRequest('https://gateway.treant.io/support/sendmail', headers, jsonFormData); // Uses JSON Placeholder
-    console.log(response);
+    //console.log(response);
     // 2.5 Inform user of result
     if(response)
         window.location = '/';
