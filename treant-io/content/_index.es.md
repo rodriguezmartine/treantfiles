@@ -6,20 +6,19 @@ title = "Welcome to Treant"
 
 # Serverless 
 {{< tip >}}
-Is a rather new concept that we believe can accomplish a lot, particularly if you have the rights tools to work with. We are creating a platform that will help you build infrastructure, handle environment variables, deploy your code, and much more, in a easy, reliable and secure way.
+Es un concepto bastante nuevo que creemos que puede lograr mucho, especialmente si tiene las herramientas adecuadas para trabajar. Estamos creando una plataforma que lo ayudará a construir infraestructura, manejar variables de entorno, implementar su código y mucho más, de una manera fácil, confiable y segura.
+
 {{< /tip >}}
 
 {{< gallery "images/slides/slide-01.jpg,images/slides/slide-02.jpg,images/tecro.jpg" "Gallery Image 1::gallery image 2::gallery image 1 copy" >}}
 
-# Subscribe to receive new **announcements**
-
-
+# Suscríbete para recibir **nuevos anuncios**
 
 
 {{< column "grid-2">}}
 
 {{< tip "warning" >}}
-We are working as hard and fast as possible creating a great product, and we are looking for early adopters who are willing to help us test our platform in exchange for having the latest feature updates at no cost. If you are interested, or want to hear from us when the product is released please subscribe here. We promise to send you only relevant emails and not spam! After all... we are developers, we know how much we read those emails. Stay tune, we are close!
+Estamos trabajando lo más duro y rápido posible para crear un gran producto, y estamos buscando usuarios pioneros que estén dispuestos a ayudarnos a probar nuestra plataforma a cambio de tener las últimas actualizaciones de funciones sin costo alguno. Si está interesado o desea saber de nosotros cuando se lance el producto, suscríbase aquí. ¡Prometemos enviarle solo correos electrónicos relevantes y no spam! Después de todo... somos desarrolladores, sabemos cuánto leemos esos correos electrónicos. ¡Estén atentos, estamos cerca!
 {{< /tip >}}
 
 {{< tip >}}
@@ -31,7 +30,7 @@ We are working as hard and fast as possible creating a great product, and we are
 	  <input type="hidden" name="subject" class="search_field"  placeholder="Subject" value="Subscribe">
 	</div>
     <div >
-	  <input type="hidden" name="html" class="search_field"  placeholder="Message"  value="Subscribe user">
+	  <input type="hidden" name="html" class="search_field"  placeholder="Message"  value="New subscriber: ">
 	</div>
 	<br>
     <button type="submit"  class="button search_field" id="btnSubmit">Subscribe!</button>

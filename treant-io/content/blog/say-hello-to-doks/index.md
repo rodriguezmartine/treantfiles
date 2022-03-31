@@ -27,10 +27,5 @@ contributors = ["Treant admin"]
   {{< chart "dataset" "pie,doughnut,bar" >}}
 {{< /grid >}}
 
-#### __Show Table at once__
-
-{{< block >}}
-  {{< chart "dataset" "table" >}}
-{{< /block >}}
 
 

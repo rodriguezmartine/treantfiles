@@ -10,5 +10,18 @@ theme = "compose"
 	mainSections = ["docs", "blog"]
 	
 
+DefaultContentLanguage = "en"
 
+[languages]
+  [languages.en]
+    
+    title = "Treant Site"
+    languageName = "English"
+    weight = 1
+  [languages.es]
+  
+    title = "Sitio de Treant"
+    languageName = "Español"
+    weight = 2
 
+defaultContentLanguageInSubdir = true

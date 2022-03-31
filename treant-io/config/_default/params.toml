@@ -29,6 +29,8 @@ codeLineNumbers = false
   iconLight = "images/GitHubMarkLight.svg"
   iconDark = "images/GitHubMarkDark.svg"
   url = "https://github.com/treant-io"
+  spanish = "images/spanish.ico"
+  english = "images/english.ico"
 
 # optional
 # attribution. Feel free to delete this

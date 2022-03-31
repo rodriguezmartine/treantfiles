@@ -1,0 +1,27 @@
+
+#  menu items
+[[main]]
+  name = "Docs"
+  weight = 10
+  url = "./docs/treant"
+
+[[main]]
+  name = "Changelog"
+  weight = 20
+  url = "/es/changelog"
+
+
+[[main]]
+	name = "Blog"
+	weight = 30
+	url = "/es/blog"
+
+[[main]]
+	name = "Start"
+	weight = 40
+	url = "/es/signup"
+
+[[main]]
+	name = "Login"
+	weight = 50
+	url = "https://aquiles-test.treant.io"
