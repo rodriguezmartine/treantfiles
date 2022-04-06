@@ -19,6 +19,10 @@ Enter your company, coupon and enjoy Treant!!!
 	  <input type="text" name="company_name" class="search_field" style="width: 100%"  placeholder="Company Name" required>
 	</div>
 	 <br>
+	<div >
+	  <input type="text" name="website" class="search_field" style="width: 100%" placeholder="Website" required>
+	</div>
+	<br>
 	<div > 
 	  <input type="text" name="coupon_code" class="search_field" style="width: 100%" placeholder="Coupon Code" required>
 	</div>
