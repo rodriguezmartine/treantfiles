@@ -1,17 +1,27 @@
-baseURL = 'https://treant-io.github.io/'
+baseURL = 'https://treant.io/'
 languageCode = 'en-us'
 title = 'Treant Site'
 theme = "compose"
 
+[outputs]
+   home = ["HTML", "RSS","JSON"]
 
 [params]
-  minimal = false
-  excerpts = false
-  description = "my blog"
+	mainSections = ["docs", "blog"]
+	
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
+DefaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    
+    title = "Treant Site"
+    languageName = "English"
+    weight = 1
+  [languages.es]
+  
+    title = "Sitio de Treant"
+    languageName = "Español"
+    weight = 2
+
+defaultContentLanguageInSubdir = true
