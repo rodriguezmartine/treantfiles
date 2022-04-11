@@ -9,7 +9,7 @@
 			{{ with $sp.enableDarkMode }}
 			<source srcset = '{{ $darkPath }}' media="(prefers-color-scheme: dark)">
 			{{ end }}
-			<img srcset = '{{ $litPath }}' alt = '{{ $s.Title }} Logo'>
+			<img class="img-logo" srcset = '{{ $litPath }}' alt = '{{ $s.Title }} Logo'>
 		</picture>
 		<label class="nav_toggle toggle" title='{{ T "site_menu" }}' role="button">
 			{{ partial "sprite" (dict "icon" "harmburger") }}

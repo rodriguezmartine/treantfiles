@@ -2,7 +2,7 @@
 title: "Changelog"
 
 ---
-{{< block "mt-2 mb-2" >}}
+{{< block >}}
 {{< column  >}}
 
 # **Changelog**

@@ -7,18 +7,6 @@
   </url><url>
     <loc>https://treant.io/changelog/example/</loc>
   </url><url>
-    <loc>https://treant.io/docs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://treant.io/es/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://treant.io/docs/"
-                />
-  </url><url>
     <loc>https://treant.io/docs/treant/</loc>
     <xhtml:link
                 rel="alternate"
@@ -197,6 +185,18 @@
                 />
   </url><url>
     <loc>https://treant.io/changelog/</loc>
+  </url><url>
+    <loc>https://treant.io/docs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://treant.io/es/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://treant.io/docs/"
+                />
   </url><url>
     <loc>https://treant.io/search/</loc>
   </url><url>

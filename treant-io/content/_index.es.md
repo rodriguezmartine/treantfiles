@@ -24,7 +24,7 @@ Estamos trabajando lo más duro y rápido posible para crear un gran producto, y
 {{< tip >}}
 <form action=""  id="sampleForm">
 	<div >
-	  <input type="email" name="email" class="search_field" placeholder="Your Email" style="width: 100%" required>
+	  <input type="email" name="email" class="search_field" placeholder="Your email" style="width: 100%" required>
 	</div>
 	<div >
 	  <input type="hidden" name="subject" class="search_field"  placeholder="Subject" value="Subscribe">

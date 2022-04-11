@@ -9,7 +9,9 @@ header.nav_header nav{
     background-color: #135e8c;
     color: #ffffffd9;
 }
-
+img.img-logo {
+    margin: 0;
+}
 .home .card, .contributors.list .card, .blog.list .card {
     margin-top: 2rem;
     margin-bottom: 2rem;

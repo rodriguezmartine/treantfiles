@@ -9,7 +9,7 @@ title = "Welcome to Treant"
 {{< block "mt-2 mb-2" >}}
 {{< column >}}
 
-# Serverless 
+# **Serverless** 
 {{< tip "without-border">}}
 Is a rather new concept that we believe can accomplish a lot, particularly if you have the rights tools to work with. We are creating a platform that will help you build infrastructure, handle environment variables, deploy your code, and much more, in a easy, reliable and secure way.
 {{< /tip >}}
@@ -27,7 +27,7 @@ We are working as hard and fast as possible creating a great product, and we are
 {{< tip "without-border">}}
 <form action=""  id="sampleForm">
 	<div >
-	  <input type="email" name="email" class="search_field" placeholder="Your Email" style="width: 100%" required>
+	  <input type="email" name="email" class="search_field" placeholder="Your email" style="width: 100%" required>
 	</div>
 	<div >
 	  <input type="hidden" name="subject" class="search_field"  placeholder="Subject" value="Subscribe">
@@ -52,7 +52,7 @@ We are working as hard and fast as possible creating a great product, and we are
 
 {{< /column >}}
 
-# Onboarding 
+# **Onboarding** 
 
 {{< column "grid-1">}}
 
@@ -60,7 +60,7 @@ See key cloud governance data in context and check if elements are orphaned or u
 
 Enter your company, coupon and enjoy Treant!!! 
 
-{{< tip >}}
+{{< tip "without-border">}}
 
 <form action=""  id="signup">
 	<div >
