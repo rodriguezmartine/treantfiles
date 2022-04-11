@@ -26,7 +26,7 @@ codeLineNumbers = false
 
 [source]
   name = "GitHub"
-  iconLight = "images/GitHubMarkLight.svg"
+  iconLight = "images/GitHubMarkDark.svg"
   iconDark = "images/GitHubMarkDark.svg"
   url = "https://github.com/treant-io"
   spanish = "images/spanish.ico"

@@ -1,24 +1,24 @@
 #  menu items
+
+[[main]]
+	name = "Home"
+	weight = 10
+	url = "./"
+
 [[main]]
   name = "Docs"
-  weight = 10
+  weight = 20
   url = "/docs/treant"
 
 [[main]]
   name = "Changelog"
-  weight = 20
+  weight = 30
   url = "changelog/"
-
 
 [[main]]
 	name = "Blog"
-	weight = 30
-	url = "blog/"
-
-[[main]]
-	name = "Start"
 	weight = 40
-	url = "signup/"
+	url = "blog/"
 
 [[main]]
 	name = "Login"

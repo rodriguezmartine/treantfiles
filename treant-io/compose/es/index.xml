@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to Treant on Sitio de Treant</title>
+    <link>https://treant.io/es/</link>
+    <description>Recent content in Welcome to Treant on Sitio de Treant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://treant.io/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Onboarding</title>
+      <link>https://treant.io/es/docs/treant/onboarding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://treant.io/es/docs/treant/onboarding/</guid>
+      <description>Onboarding </description>
+    </item>
+    
+    <item>
+      <title>Login</title>
+      <link>https://treant.io/es/docs/treant/login/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://treant.io/es/docs/treant/login/</guid>
+      <description>Login Add company Edit company Delete company </description>
+    </item>
+    
+    <item>
+      <title>Companies</title>
+      <link>https://treant.io/es/docs/treant/companies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://treant.io/es/docs/treant/companies/</guid>
+      <description>Add company Edit company Delete company How to create a company </description>
+    </item>
+    
+    <item>
+      <title>Cloud Credentials</title>
+      <link>https://treant.io/es/docs/treant/cloud-credentials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://treant.io/es/docs/treant/cloud-credentials/</guid>
+      <description>Cloud Credentials </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://treant.io/es/docs/treant/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://treant.io/es/docs/treant/projects/</guid>
+      <description>Projects </description>
+    </item>
+    
+    <item>
+      <title>Environments</title>
+      <link>https://treant.io/es/docs/treant/environments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://treant.io/es/docs/treant/environments/</guid>
+      <description>Environments </description>
+    </item>
+    
+    <item>
+      <title>Treant Variables</title>
+      <link>https://treant.io/es/docs/treant/treant-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://treant.io/es/docs/treant/treant-variables/</guid>
+      <description>Treant Variables </description>
+    </item>
+    
+    <item>
+      <title>Installables</title>
+      <link>https://treant.io/es/docs/treant/installables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://treant.io/es/docs/treant/installables/</guid>
+      <description>Installables </description>
+    </item>
+    
+    <item>
+      <title>Deploy</title>
+      <link>https://treant.io/es/docs/treant/deploy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://treant.io/es/docs/treant/deploy/</guid>
+      <description>Deploy </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://treant.io/es/docs/treant/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://treant.io/es/docs/treant/resources/</guid>
+      <description>Resources </description>
+    </item>
+    
+    <item>
+      <title>Users</title>
+      <link>https://treant.io/es/docs/treant/users/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://treant.io/es/docs/treant/users/</guid>
+      <description>Usuarios Esta sección permite gestionar los usuarios de su compania, asignarles roles dependiendo del perfil de cada uno de sus colaboradores. Cada uno de estos usuarios podrá realizar o ejecutar acciones dentro de Treant según su rol lo permita, para ver que permisos abarca cada rol mire la sección Roles y permisos.
+Nota: Para poder realizar operaciones con usuarios, ustede deberá tener permisos de &amp;quot;Project Admin&amp;quot; o superior.
+Agregar usuarios a tu compania Dentro del menú de usuario seleccione User, usted observará la lista de usuarios que existen en su company y el rol que cada usuario tiene.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,7 +7,7 @@
   <header class="nav_header">
     {{- partial "nav" . }}
   </header>
-  <div class="main wrap pt-4">
+  <div class="main wrap pt-2">
     {{ $docSections := site.Params.docSections }}
     {{- with $docSections }}{{- else }}
       {{- $docSections = "docs" }}

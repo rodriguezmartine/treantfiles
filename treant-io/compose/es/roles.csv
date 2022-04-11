@@ -1,0 +1,8 @@
+base,O,O,O,O
+developer,X,O,O,O
+user_manager,X,X,O,O
+secrets_manager,X,X,X,O
+project_manager,X,X,O,O
+infra_manager,X,O,O,O
+deployer,O,O,O,O
+tv_admin,X,X,O,O

@@ -33,7 +33,7 @@ Estamos trabajando lo más duro y rápido posible para crear un gran producto, y
 	  <input type="hidden" name="html" class="search_field"  placeholder="Message"  value="New subscriber: ">
 	</div>
 	<br>
-    <button type="submit"  class="button search_field" id="btnSubmit">Subscribe!</button>
+    <button type="submit"  class="button search_field" id="btnSubmit">Subscribe</button>
 </form>
 {{< /tip >}}
 
