@@ -24,6 +24,7 @@ img.img-logo {
 }
 h1.title-banner{
     padding-bottom: 1rem;
+    font-size: xxx-large;
 }
 .home .card, .contributors.list .card, .blog.list .card {
     margin-top: 2rem;
