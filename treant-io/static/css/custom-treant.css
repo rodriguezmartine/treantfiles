@@ -16,6 +16,14 @@ img.img-logo {
     text-align: center;
     background-color: #bfbfbfb5;    
     text-shadow: 4px 5px 10px #a7a7a7;
+    background: url(http://localhost:1313/images/bg/cloud-computing-banner.webp) no-repeat;
+    background-size: cover;
+}
+.main-banner .text-main-banner{
+    background: #ffffff94;
+}
+h1.title-banner{
+    padding-bottom: 1rem;
 }
 .home .card, .contributors.list .card, .blog.list .card {
     margin-top: 2rem;
