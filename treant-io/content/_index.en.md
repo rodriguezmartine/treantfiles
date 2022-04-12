@@ -2,10 +2,6 @@
 title = "Welcome to Treant"
 +++
 
-<section>
-	<h1>TEST</h1>
-</section>
-
 {{< block "mt-2 mb-2" >}}
 {{< column >}}
 

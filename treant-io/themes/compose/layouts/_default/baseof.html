@@ -7,6 +7,19 @@
   <header class="nav_header">
     {{- partial "nav" . }}
   </header>
+
+  {{ if site.Params.uniqueHomepage }}
+   {{ if .IsHome }}
+    <div class="main-banner text-center pt-3 pb-3">
+      <div class="">
+        <h1 class=""><strong>Punny headline</strong></h1>
+        <p class="">And an even wittier subheading to boot. Jumpstart your marketing <br> efforts with this example based on Apple’s marketing pages.</p>
+        <a class="btn btn-outline-secondary" href="#">Coming soon</a>
+      </div>
+    </div> 
+    {{ end }}
+  {{ end }}
+
   <div class="main wrap pt-2">
     {{ $docSections := site.Params.docSections }}
     {{- with $docSections }}{{- else }}

@@ -12,6 +12,11 @@ header.nav_header nav{
 img.img-logo {
     margin: 0;
 }
+.main-banner.text-center{
+    text-align: center;
+    background-color: #bfbfbfb5;    
+    text-shadow: 4px 5px 10px #a7a7a7;
+}
 .home .card, .contributors.list .card, .blog.list .card {
     margin-top: 2rem;
     margin-bottom: 2rem;
@@ -109,9 +114,7 @@ body {
 .button.full-width{
     width: 100%;
 }
-.button.search_field{
-    background-color: ;
-}
+
 input.search_field{
     padding: 0.5rem 1.5rem 0.5rem 1rem;
     border-radius: 0.5rem;
